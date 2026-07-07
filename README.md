@@ -9,7 +9,7 @@ SketchFlow provides a smooth drawing experience with support for freehand sketch
 ## 📸 Preview
 
 <p align="center">
-  <img src="./src/assets/hero.png" alt="SketchFlow Preview" width="900"/>
+  <img src="./src/assets/demo.png" alt="SketchFlow Preview" width="900"/>
 </p>
 
 ---
@@ -116,14 +116,12 @@ frontend/
 Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/sketchflow.git
+git clone https://github.com/guptadi0406-alt/InkCanva.git
 ```
 
 Go to the project directory
 
-```bash
-cd sketchflow
-```
+`
 
 Install dependencies
 
@@ -272,8 +270,8 @@ git push origin feature/NewFeature
 
 **Aditya Gupta**
 
-- GitHub: https://github.com/yourusername
-- LinkedIn: https://linkedin.com/in/yourusername
+- GitHub: https://github.com/guptadi0406-alt
+- LinkedIn: https://www.linkedin.com/in/aditya-gupta-a130b7334/
 
 ---
 
