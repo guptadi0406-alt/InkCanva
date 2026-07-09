@@ -1,4 +1,4 @@
-# 🎨 SketchFlow
+# 🎨 InCanva
 
 > A modern, lightweight, and interactive whiteboard application inspired by Excalidraw, built with **React**, **HTML5 Canvas**, **Rough.js**, and **Perfect Freehand**.
 
